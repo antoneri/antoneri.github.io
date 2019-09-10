@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Anton Eriksson</title>
+    <link href="https://antoneri.github.io/feed.xml" rel="self" />
+    <link href="https://antoneri.github.io" />
+    <updated>2019-09-10T15:16:15+02:00</updated>
+    <author>
+        <name>Anton Eriksson</name>
+    </author>
+    <id>https://antoneri.github.io</id>
+
+    <entry>
+        <title>Hello, world</title>
+        <author>
+            <name>Anton Eriksson</name>
+        </author>
+        <link href="https://antoneri.github.io/hello-world.html"/>
+        <id>https://antoneri.github.io/hello-world.html</id>
+
+        <updated>2019-09-10T15:15:12+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
