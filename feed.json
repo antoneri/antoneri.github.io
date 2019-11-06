@@ -9,17 +9,5 @@
         "name": "Anton Eriksson"
     },
     "items": [
-        {
-            "id": "https://antoneri.github.io/hello-world.html",
-            "url": "https://antoneri.github.io/hello-world.html",
-            "title": "Hello, world",
-            "author": {
-                "name": "Anton Eriksson"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-10T15:15:12+02:00",
-            "date_modified": "2019-09-10T15:15:12+02:00"
-        }
     ]
 }
