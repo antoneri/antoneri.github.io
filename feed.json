@@ -9,5 +9,18 @@
         "name": "Anton Eriksson"
     },
     "items": [
+        {
+            "id": "https://antoneri.github.io/elevator-pitch/",
+            "url": "https://antoneri.github.io/elevator-pitch/",
+            "title": "Elevator pitch",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2IeiOPbLJEk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe>",
+            "author": {
+                "name": "Anton Eriksson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-14T21:19:33+01:00",
+            "date_modified": "2019-11-14T22:05:42+01:00"
+        }
     ]
 }
