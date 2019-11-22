@@ -3,26 +3,10 @@
     <title>antoneri.github.io</title>
     <link href="https://antoneri.github.io/feed.xml" rel="self" />
     <link href="https://antoneri.github.io" />
-    <updated>2019-11-14T22:18:32+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Anton Eriksson</name>
     </author>
     <id>https://antoneri.github.io</id>
 
-    <entry>
-        <title>Elevator pitch</title>
-        <author>
-            <name>Anton Eriksson</name>
-        </author>
-        <link href="https://antoneri.github.io/elevator-pitch/"/>
-        <id>https://antoneri.github.io/elevator-pitch/</id>
-
-        <updated>2019-11-14T22:16:36+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/2IeiOPbLJEk" frameborder="0" cc_load_policy="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-            ]]>
-        </content>
-    </entry>
 </feed>
