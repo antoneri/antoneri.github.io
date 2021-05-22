@@ -45,3 +45,29 @@ html.dark label[for="toggle-darkmode"] {
 html.dark label[for="toggle-darkmode"]::after {
   left: 1.2rem;
 }
+
+main h2:first-child::before {
+  content: "✋";
+  margin-right: 0.4rem;
+  display: inline-block;
+  transform: rotate(-45deg);
+  animation: shake linear 0.5s 0.5s;
+}
+
+@keyframes shake {
+  0% {
+    transform: translateX(0) translateY(0) rotate(-45deg);
+  }
+  20% {
+    transform: translateX(-0.2rem) translateY(0.2rem) rotate(-45deg);
+  }
+  40% {
+    transform: translateX(0.2rem) translateY(-0.2rem) rotate(-45deg);
+  }
+  60% {
+    transform: translateX(-0.2rem) translateY(0.2rem) rotate(-45deg);
+  }
+  80% {
+    transform: translateX(0.2rem) translateY(-0.2rem) rotate(-45deg);
+  }
+}
