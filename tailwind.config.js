@@ -1,25 +1,14 @@
-const colors = require("tailwindcss/colors");
-
 module.exports = {
-  purge: ["index.html", "main.js"],
-  darkMode: "class", // or 'media' or 'class'
+  content: ["./index.html"],
   theme: {
-    colors,
-    extend: {
-      scale: {
-        99: ".99",
-        101: "1.01",
-      },
+    container: {
+      center: true,
+      padding: "2rem",
     },
-    nightwind: {
-      typography: true,
+    fontFamily: {
+      serif: ["Merriweather", "serif"],
     },
+    extend: {},
   },
-  variants: {
-    extend: {
-      translate: ["group-hover"],
-      scale: ["group-hover"],
-    },
-  },
-  plugins: [require("nightwind"), require("@tailwindcss/typography")],
+  plugins: [],
 };
